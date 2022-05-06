@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nomadic-Jester
 - 👀 I’m interested in C++, C#, C, Python and more. 
-- 🌱 I’m currently learning about reading and writing memory through the kernel.
-- 💞️ I’m looking to collaborate on game hacking projects and or python automation control projects.
 - 📫 You can contact me by email at elite.coding@protonmail.com
 
 <!---
